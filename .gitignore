@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Material Theme UI plugin settings
+material_theme_project_new.xml
