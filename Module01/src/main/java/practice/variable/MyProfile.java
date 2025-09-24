@@ -1,4 +1,4 @@
-package Practice;
+package practice.variable;
 
 public class MyProfile {
     public static void main(String[] args) {
